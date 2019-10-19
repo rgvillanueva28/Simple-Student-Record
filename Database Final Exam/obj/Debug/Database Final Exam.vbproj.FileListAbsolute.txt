@@ -1,0 +1,12 @@
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\bin\Debug\Database Final Exam.exe.config
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\bin\Debug\Database Final Exam.exe
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\bin\Debug\Database Final Exam.pdb
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\bin\Debug\Database Final Exam.xml
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database_Final_Exam.frmMain.resources
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database_Final_Exam.Resources.resources
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database Final Exam.vbproj.GenerateResource.cache
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database Final Exam.vbproj.CoreCompileInputs.cache
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database Final Exam.exe
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database Final Exam.xml
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database Final Exam.pdb
+E:\Files\Documents\-- Mapua\CPE102L\Visual Basic Database\Database Final Exam\Database Final Exam\obj\Debug\Database Final Exam.vbprojAssemblyReference.cache
